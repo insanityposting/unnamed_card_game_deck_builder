@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://pn3i7vrdkkea"
+path="res://.godot/imported/3.png-c9a17eb7834a57f654e1b9b2b67e9936.image"
+
+[deps]
+
+source_file="res://Graphics/card_images/3.png"
+dest_files=["res://.godot/imported/3.png-c9a17eb7834a57f654e1b9b2b67e9936.image"]
+
+[params]
+
